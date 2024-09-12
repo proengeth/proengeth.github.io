@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://proengeth.github.io/sitemap.html.gz
+Sitemap: https://proengeth.github.io/app/sitemap.html.gz
+Sitemap: https://proengeth.github.io/assets/sitemap.html.gz
+Sitemap: https://proengeth.github.io/css/sitemap.html.gz
+Sitemap: https://proengeth.github.io/includes/sitemap.html.gz
+Sitemap: https://proengeth.github.io/item/sitemap.html.gz
+Sitemap: https://proengeth.github.io/src/sitemap.html.gz
